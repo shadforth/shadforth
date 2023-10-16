@@ -1,7 +1,8 @@
-## Hi there!
+## Hi! I'm Jacqui
 
-- 👩🏻‍💻 My name is Jacqui
-- 🇦🇺 I'm a software engineer and designer from Melbourne, Australia
-- 🇬🇧 I currently work in London on Jira's search platform at Atlassian
-- ❤️ I'm especially excited by full-text search, clean architecture, and [Alfred](https://www.alfredapp.com/)
-- 📱 Right now I'm tinkering on... a couple projects in React Native
+- 🇦🇺 I'm a software engineer and designer from Melbourne
+- 🇬🇧 I work on Jira Search @ Atlassian in London
+- 👩‍🏫 Right now I'm tinkering on... a personal language-learning app in Next.js
+- ❤️ I'm passionate about full-text search, clean architecture, bash, [Alfred](https://www.alfredapp.com/), and pixel art
+
+<img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/jacquelineshadforth-1696781773-0.gif" width="200" />
