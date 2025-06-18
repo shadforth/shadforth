@@ -1,7 +1,7 @@
 ## Hi! I'm Jacqui
 
 - 🇦🇺 I'm a software engineer and designer from Melbourne
-- 🇬🇧 I work on Jira scale and performance @ Atlassian in London
+- 🇬🇧 I work on [Jira Product Discovery](https://www.atlassian.com/software/jira/product-discovery) @ Atlassian in London
 - 👩‍🏫 Right now I'm tinkering on... a subscription manager
 - ❤️ I'm passionate about full-text search, clean architecture, bash, [Alfred](https://www.alfredapp.com/), and pixel art
 
